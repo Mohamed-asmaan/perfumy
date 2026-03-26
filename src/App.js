@@ -7,14 +7,14 @@ import About from "./components/About"
 
 function App() {
     return (
-          <>
-    <Navbar></Navbar>
-    <SearchBar></SearchBar>
-    <Product></Product>
-    <About></About>
-    <Footer></Footer>
-  </>
+    <>
+      <Navbar />
+      <SearchBar />
+      <Product />
+      <About />
+      <Footer />
+    </>
     )
 }
 
-export default App
+export default App;
