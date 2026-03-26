@@ -4,7 +4,7 @@ import Three from "../assets/three.jpg";
 
 function Product() {
   return (
-    <div className="products">
+    <div id="products" className="products">
       <div className="box">
         <img
           src={One}
